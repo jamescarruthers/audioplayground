@@ -1,5 +1,6 @@
 # Teensy Audio Playground
 Teensy 3.5/3.6 based Eurorack development module
+
 Designed as a playground for the wonderful Teensy audio library (https://www.pjrc.com/teensy/td_libs_Audio.html) or to roll your own DSP, or anything else you can dream of using the Teensy 3.5/3.6.
 
 * 4 x bi-colour LEDs
