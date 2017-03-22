@@ -29,3 +29,6 @@ You can change the output offset and multiplier resistors to add more precision 
 
 ### Additional memory
 There is space on the board for an additional memory IC. As yet, this is untested.
+
+## Coding guide
+Nothing more is needed than the basic Arduino + Teensyduino install. There is a template included in the software folder to setup the various pins and get you going.
