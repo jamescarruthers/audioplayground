@@ -1,5 +1,5 @@
 # Teensy Audio Playground
-Teensy 3.5/3.6 based Eurorack module
+Teensy 3.5/3.6 based Eurorack development module
 
 * 4 x bi-colour LEDs
 * 4 x potentiometer controls
