@@ -10,6 +10,6 @@ Teensy 3.5/3.6 based Eurorack development module
 
 All CV inputs may be configured to either bipolar or unipolar at build time.
 
-# Bill of materials
+## Bill of materials
 https://octopart.com/bom-tool/IsuuIT4J
 
