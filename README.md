@@ -13,3 +13,7 @@ CV inputs may be individually configured to either unipolar (0 to 5V) or bipolar
 ## Bill of materials
 https://octopart.com/bom-tool/IsuuIT4J
 
+## Basic build guide
+1. Build it
+2. Cut the VIN/VUSB jumper on the back of the Teensy board (see here: https://www.pjrc.com/teensy/card9b_rev1.png)
+3. Power it up!
