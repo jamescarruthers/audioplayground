@@ -22,7 +22,7 @@ https://octopart.com/bom-tool/IsuuIT4J
 ## Advanced build guide
 
 ### Inputs
-You can change any input to unipolar or bipolar by adding or omiting a resistor as per the board. Look for the top row of resistors marked 0/3302 and 3302/0. If in doubt, for a standard build use the value to the left of the slash.
+You can change any of the CV inputs to unipolar or bipolar by adding or omiting a resistor as per the board. Look for the top row of resistors marked 0/3302 and 3302/0. If in doubt, for a standard build use the value to the left of the slash.
 
 ### Outputs
 You can change the output offset and multiplier resistors to add more precision to a range. For example, O=50k and M=80.6k would result in a 0 to 8V output useful for envelopes. O=63.4k, M=69.8k would result in a -1.5 to 5.5V output useful for 1V/Octave. Note that you would need to use some kind of calibration in code to make these accurate enough for 1V/Octave.
