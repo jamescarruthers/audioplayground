@@ -29,8 +29,8 @@ void setup() {
   pinMode(A20, INPUT);
 
   //Buttons
-  pinMode(24, INPUT);
-  pinMode(25, INPUT);
+  pinMode(24, INPUT_PULLUP);
+  pinMode(25, INPUT_PULLUP);
 
   //easier to keep in and out the same number of bits
   analogReadResolution(16);
