@@ -1,6 +1,7 @@
 # Audio Playground for Teensy 3.5/3.6
 
 [![Join the chat at https://gitter.im/audioplayground/Lobby](https://badges.gitter.im/audioplayground/Lobby.svg)](https://gitter.im/audioplayground/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Teensy 3.5/3.6 based Eurorack development module
 
 Designed as a playground for the wonderful Teensy audio library (https://www.pjrc.com/teensy/td_libs_Audio.html) or to roll your own DSP, or anything else you can dream of using the Teensy 3.5/3.6.
