@@ -7,6 +7,6 @@ void setup() {
 }
 
 void loop() {
-  // put yourmain code here, to run repeatedly:
+  // put your main code here, to run repeatedly:
 
 }
