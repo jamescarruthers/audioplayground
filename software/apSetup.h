@@ -1,3 +1,17 @@
+/* Physical layout:
+
+LED1 LED2 LED3 LED4
+
+POT1 POT2
+POT3 POT4
+
+BUT1 BUT2
+
+BI1 UNI1 DAC1
+BI2 UNI2 DAC2
+
+*/
+
 #define LED1R 9
 #define LED1G 8
 #define LED2R 7
@@ -13,12 +27,12 @@
 #define POT4 A20
 
 #define BUT1 24
-#define BUT2 24
+#define BUT2 25
 
-#define UNI1 A2
-#define UNI2 A3
 #define BI1 A0
 #define BI2 A1
+#define UNI1 A2
+#define UNI2 A3
 
 #define DAC1 A21
 #define DAC2 A22
