@@ -29,10 +29,10 @@ BI2 UNI2 DAC2
 #define BUT1 24
 #define BUT2 25
 
-#define BI1 A0
-#define BI2 A1
-#define UNI1 A2
-#define UNI2 A3
+#define BI1 A2
+#define BI2 A3
+#define UNI1 A0
+#define UNI2 A1
 
 #define DAC1 A21
 #define DAC2 A22
