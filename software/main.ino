@@ -1,8 +1,8 @@
-#include "apSetup.h"
+#include <audioplay.h>
+Audioplay audioplay;
 
 void setup() {
   // put your setup code here, to run once:
-  setupAudioPlayground();
 
 }
 
