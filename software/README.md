@@ -7,3 +7,7 @@
 ## Roadmap
 
 Add calibration function for both input and outputs, storing data in EEPROM.
+
+Some kind of way to drive the LEDs nicer than just digital/analog writes (bi-colour, mixing etc)
+
+Setup basics like bounce on buttons, pot scaling, etc
